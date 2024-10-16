@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"Domes.c"
+#include"helper.c"
 
 void swap(Data *a,Data *b);
 void heapify(Data arr[],int size,int tmpFather);

@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
-#include "Domes.c"
+#include "helper.c"
 
 // DATE FUNCTIONS
 int isLeapYear(int year);

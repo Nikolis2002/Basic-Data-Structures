@@ -1,6 +1,7 @@
+
 #include <stdio.h>
 #include <stdlib.h>
-#include "Domes2.c"
+#include "tree_helper.c"
 #include <string.h>
 
 #define COUNT 10
